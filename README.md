@@ -19,11 +19,10 @@ Script Box is a tool for 3ds Max that streamlines the process of executing Maxsc
 It identifies and seperates macroScripts, plugin, utilty and regular scripts. Showing specific information and executing them according to there class.
 This enables users to easily organize there collection of MaxScripts without complex installation and customization procedures within 3ds Max.
 ### Features <a name="features"></a>
-- Execute buttons for every Maxscript
+- Dynamic, dockable and resizeable interface
 - Multi-threaded script loading
 - Include sub-folders
 - Grouped by macroScript, plugin, utility and standard.
-- Dynamic, dockable and resizeable interface
 - Extended Tooltip information
 - Open MaxScripts in the Scripting editor
 ### Support <a name="support"></a>
