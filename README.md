@@ -1,11 +1,21 @@
 
-# Documentation
+Documentation
+===
 ![Script Box](https://github.com/DMZScripts/Script-Box/blob/9f4f8e929afca237b01dc5d5874088f371159d23/images/Script%20Box_003.png?raw=true)
-###### Dynamic Maxscript Dialog for 3ds Max
+Dynamic Maxscript Dialog for 3ds Max
+
+Table of content
+---
+- [Description](#description)
+  - [Features](#features)
+- [UI](#ui)
+  - [Dialog Options](#dialogOptions)
+  - [Load Folders](#loadFolder)
+  - [Script Menu](#scriptMenu)
 <br></br>
-## Description
+## Description<a name="description"></a>
 Script Box is a tool  for 3ds Max that streamline the process of installing and executing Maxscripts by allowing users to select any folder and generate a dynamic dialog menu.
-### Features
+### Features <a name="features"></a>
 - Dynamic and dockable interface
 - Multi-threaded script loading
 - Include sub-folders
@@ -13,8 +23,8 @@ Script Box is a tool  for 3ds Max that streamline the process of installing and 
 - Extended Tooltip information
 - Open MaxScripts in the Scripting editor
 <br></br>
-## UI
-### Dialog Options
+## UI <a name="ui"></a>
+### Dialog Options<a name="dialogOptions"></a>
 ![Dialog Options](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_DialogOptions_001.png?raw=true)
 - **Installer**: Opens the Script Box installer
 - **DockLeft**: Docks the dialog menu left
@@ -22,7 +32,7 @@ Script Box is a tool  for 3ds Max that streamline the process of installing and 
 - **DockRight**: Docks the dialog menu right
 - **Close**: Close the menu
 
-### Load Folders
+### Load Folders <a name="loadFolders"></a>
 ![Load Folders](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_Folders_001.png?raw=true)
 - **Select Folder**: Loads a new folder. Removes previous loaded folders.
 - **Add Folder**: Add a new folder and re-loads all folders in the Folders list.
@@ -31,7 +41,7 @@ Script Box is a tool  for 3ds Max that streamline the process of installing and 
 - **Remove Folder**: Remove selected folder from Folders list. Re-load remaining folders.
 - **Reload all Folders**: Re-load all folder in Folder list.
 
-### Script Menu
+### Script Menu a name="scriptMenu"></a>
 ![Script Menu](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_ScriptMenu_001.png?raw=true)
 >All collected script files are scanned for macroScripts, plugins and utility classes.  Each instance of these classes gets a button that executes only that part of the script. The buttons are grouped according to these script classes.
 If no class instance can be found, the script is interpreteded as regular maxScript and receives a single button.
