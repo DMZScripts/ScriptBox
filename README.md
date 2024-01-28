@@ -9,9 +9,9 @@ Table of content
 - [Description](#description)
   - [Features](#features)
 - [UI](#ui)
-  - [Dialog Options](#dialogOptions)
-  - [Load Folders](#loadFolders)
-  - [Script Menu](#scriptMenu)
+  - [Dialog Options](#options)
+  - [Load Folders](#folders)
+  - [Script Menu](#scripts)
 <br></br>
 ## Description<a name="description"></a>
 Script Box is a tool  for 3ds Max that streamline the process of installing and executing Maxscripts by allowing users to select any folder and generate a dynamic dialog menu.
@@ -24,7 +24,7 @@ Script Box is a tool  for 3ds Max that streamline the process of installing and 
 - Open MaxScripts in the Scripting editor
 <br></br>
 ## UI <a name="ui"></a>
-### Dialog Options<a name="dialogOptions"></a>
+### Dialog Options <a name="options"></a>
 ![Dialog Options](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_DialogOptions_001.png?raw=true)
 - **Installer**: Opens the Script Box installer
 - **DockLeft**: Docks the dialog menu left
@@ -32,7 +32,7 @@ Script Box is a tool  for 3ds Max that streamline the process of installing and 
 - **DockRight**: Docks the dialog menu right
 - **Close**: Close the menu
 
-### Load Folders <a name="loadFolders"></a>
+### Load Folders <a name="folders"></a>
 ![Load Folders](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_Folders_001.png?raw=true)
 - **Select Folder**: Loads a new folder. Removes previous loaded folders.
 - **Add Folder**: Add a new folder and re-loads all folders in the Folders list.
@@ -41,7 +41,7 @@ Script Box is a tool  for 3ds Max that streamline the process of installing and 
 - **Remove Folder**: Remove selected folder from Folders list. Re-load remaining folders.
 - **Reload all Folders**: Re-load all folder in Folder list.
 
-### Script Menu <a name="scriptMenu"></a>
+### Script Menu <a name="scripts"></a>
 ![Script Menu](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_ScriptMenu_001.png?raw=true)
 >All collected script files are scanned for macroScripts, plugins and utility classes.  Each instance of these classes gets a button that executes only that part of the script. The buttons are grouped according to these script classes.
 If no class instance can be found, the script is interpreteded as regular maxScript and receives a single button.
