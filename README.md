@@ -10,7 +10,7 @@ Table of content
   - [Features](#features)
 - [UI](#ui)
   - [Dialog Options](#dialogOptions)
-  - [Load Folders](#loadFolder)
+  - [Load Folders](#loadFolders)
   - [Script Menu](#scriptMenu)
 <br></br>
 ## Description<a name="description"></a>
@@ -41,7 +41,7 @@ Script Box is a tool  for 3ds Max that streamline the process of installing and 
 - **Remove Folder**: Remove selected folder from Folders list. Re-load remaining folders.
 - **Reload all Folders**: Re-load all folder in Folder list.
 
-### Script Menu a name="scriptMenu"></a>
+### Script Menu <a name="scriptMenu"></a>
 ![Script Menu](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_ScriptMenu_001.png?raw=true)
 >All collected script files are scanned for macroScripts, plugins and utility classes.  Each instance of these classes gets a button that executes only that part of the script. The buttons are grouped according to these script classes.
 If no class instance can be found, the script is interpreteded as regular maxScript and receives a single button.
