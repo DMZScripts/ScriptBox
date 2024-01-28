@@ -1,22 +1,19 @@
 
-#Documentation
+# Documentation
 ![Script Box](https://github.com/DMZScripts/Script-Box/blob/9f4f8e929afca237b01dc5d5874088f371159d23/images/Script%20Box_003.png?raw=true)
-######Dynamic Maxscript Dialog for 3ds Max
-[TOCM]
-
+###### Dynamic Maxscript Dialog for 3ds Max
+<br></br>
 ## Description
 Script Box is a tool  for 3ds Max that streamline the process of installing and executing Maxscripts by allowing users to select any folder and generate a dynamic dialog menu.
-###Features
+### Features
 - Dynamic and dockable interface
 - Multi-threaded script loading
 - Include sub-folders
 - Grouped by macroScript, plugin, utility and standard.
 - Extended Tooltip information
 - Open MaxScripts in the Scripting editor
-------------
-
-
-##UI
+<br></br>
+## UI
 ### Dialog Options
 ![Dialog Options](https://github.com/DMZScripts/Script-Box/blob/d9e91be4cf9fe430b84487f17de7807e740de224/images/UI_DialogOptions_001.png?raw=true)
 - **Installer**: Opens the Script Box installer
@@ -44,4 +41,4 @@ If no class instance can be found, the script is interpreteded as regular maxScr
 - **Folder Path**: Full folder path. Read-only.
 - **Open Script**: Opens the script file in the Scripting Editor.
 - **Launch Button**: Executes the script.
-------------
+<br></br>
