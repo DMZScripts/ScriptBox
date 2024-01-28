@@ -8,6 +8,7 @@ Table of contents
 - [Description](#description)
   - [Features](#features)
   - [Support](#support)
+  - [Links](#links)
 - [UI](#ui)
   - [Dialog Options](#options)
   - [Load Folders](#folders)
@@ -16,7 +17,6 @@ Table of contents
 ## Description<a name="description"></a>
 Script Box is a tool for 3ds Max that streamline the process of installing and executing Maxscripts by allowing users to select any folder and generate a dynamic dialog menu.
 It allows the user to organize macroScripts, plugins, utilities and regular scripts within 3ds Max, without requiring users to navigate through complex procedures.
-
 ### Features <a name="features"></a>
 - Execute buttons for every Maxscript
 - Multi-threaded script loading
@@ -25,11 +25,15 @@ It allows the user to organize macroScripts, plugins, utilities and regular scri
 - Dynamic, dockable and resizeable interface
 - Extended Tooltip information
 - Open MaxScripts in the Scripting editor
-
 ### Support <a name="support"></a>
 - 3ds Max 2021-2024
 - .ms, .mse, .mcr files
 - macroScripts, plugin, utility classes
+### Links <a name="links"></a>
+- [Youtube](https://youtu.be/HqMXw3Hht64?si=ejwyelh94iZaYcg1)
+- [Gumroad](https://dmz.gumroad.com/l/ScriptBox)
+- [Scriptspot](https://www.scriptspot.com/3ds-max/scripts/script-box)
+
 <br></br>
 ## UI <a name="ui"></a>
 ### Dialog Options <a name="options"></a>
