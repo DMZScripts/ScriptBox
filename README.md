@@ -1,11 +1,6 @@
 <img src="images/ScriptBox_003.png" class="full-width"></img>
-Script Box is a plugin for 3ds Max that generates a dynamic menu for any folder containging MaxScript files.
-For each instance of macroScripts, plugin, utilty and regular scripts it creates a seperate execute button.
-This enables users to organize there collection of MaxScripts without installation and customization procedures within 3ds Max.<br>
-Youtube - Gumroad - Scriptspot
-<h2> </h2>
-Create dynamic menus and run MaxScripts with a simple, customizable interface
-Organize your script collection in any way you like without installation and UI changes within 3ds Max
+<div align="center">Create dynamic menus and run MaxScripts with a simple, customizable interface</div>
+<div align="center">Organize your script collection in any way you like without installation and UI changes within 3ds Max</div>
 <h2> </h2>
 <img src="images/ScriptBox_v11_001.png" align="right" width="300"></img>
 <h3>Main Features</h3>
