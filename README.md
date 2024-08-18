@@ -1,10 +1,11 @@
 <img src="images/ScriptBox_003.png" class="full-width"></img>
-<div align="center">Create dynamic menus and run MaxScripts with a simple, customizable interface</div>
-<div align="center">Organize your script collection in any way you like without installation and UI changes within 3ds Max</div>
-<div align="center"><a href="https://www.youtube.com/watch?v=HqMXw3Hht64" target="_blank" rel="noopener noreferrer">Youtube</a> - <a href="https://dmz.gumroad.com/l/ScriptBox" target="_blank" rel="noopener noreferrer">Gumroad</a> - <a href="https://www.scriptspot.com/3ds-max/scripts/script-box" target="_blank" rel="noopener noreferrer">Scriptspot</a></div>
-
-
-
+Script Box is a plugin for 3ds Max that generates a dynamic menu for any folder containging MaxScript files.
+For each instance of macroScripts, plugin, utilty and regular scripts it creates a seperate execute button.
+This enables users to organize there collection of MaxScripts without installation and customization procedures within 3ds Max.<br>
+Youtube - Gumroad - Scriptspot
+<h2> </h2>
+Create dynamic menus and run MaxScripts with a simple, customizable interface
+Organize your script collection in any way you like without installation and UI changes within 3ds Max
 <h2> </h2>
 <img src="images/ScriptBox_v11_001.png" align="right" width="300"></img>
 <h3>Main Features</h3>
@@ -193,7 +194,9 @@ Script Box provides users with additional tooltip information for any launch scr
 
 - Script name, class and category
 - File name and type
-- Macroscript tooltip
+- MacroScript tooltip  
+
+
 Since version 1.1, you can customize the tooltip information for all Launch Buttons in 2 ways
 - In Top Menu > Options, select what information items are displayed
 - Enable 'scriptbox tooltip' in Options and add a custom line of code to your script class
