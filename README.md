@@ -274,7 +274,7 @@ In the screenshot you can see an examples of valid sbx_tooltips for every suppor
 <h2> </h2>
 <br>
 <h1 align="center">Versions</h1><a name="versions"></a>
-<h3>1.002</h3><a name="versions_1002"></a>
+<h3>1.002</h3><a name="versions_1002 (free)"></a>
 <details>
   <summary>feature list</summary>
 
@@ -291,7 +291,7 @@ In the screenshot you can see an examples of valid sbx_tooltips for every suppor
   > - warning messages for bad scripts and unknown errors  
   > - help documentation  
 </details>
-<h3>1.100</h3><a name="versions_1100"></a>
+<h3>1.100</h3><a name="versions_1100 (paid)"></a>
 <details>
   <summary>feature list</summary>
 
