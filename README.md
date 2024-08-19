@@ -1,17 +1,22 @@
 <img src="images/ScriptBox_003.png" class="full-width"></img>
-<div align="center">Create dynamic menus and run MaxScripts with a simple, customizable interface</div>
-<div align="center">Organize your script collection in any way you like without installation and UI changes within 3ds Max</div>
+<div align="center"><b>Dynamic dialog menu for Maxscript files</b></div>
+<div align="center"><b><a href="https://youtu.be/HqMXw3Hht64?si=fVStMN7RwfsJFzx3" target="_blank" rel="noopener noreferrer">Youtube</a> - <a href="https://dmz.gumroad.com/l/ScriptBox" target="_blank" rel="noopener noreferrer">Gumroad</a> - <a href="https://www.scriptspot.com/3ds-max/scripts/script-box" target="_blank" rel="noopener noreferrer">Scriptspot</a></b></div>
 <h2> </h2>
 <img src="images/ScriptBox_v11_001.png" align="right" width="300"></img>
+<h3>Description</h3>
+Script Box is a plugin for 3ds Max that creates a dynamic dialog menu for Maxscript files.
+You can execute scripts from any folder location without installation and UI customization within 3ds Max.
+Organize your script collection in any way you like and use them within a simple and customizable UI
+
 <h3>Main Features</h3>
 
 - Dynamic dialog menu 
 - Execute MaxScripts from any folder
-- Organized by macroScript, plugin, utility and regular scripts
 - Multi-threaded file loading
-- Dock, resize, and collapse dialogs
+- Organized by macroScript, plugin, utility and regular scripts
 - Configure buttons and minimize UI
 - Custom tooltips with aditional information
+- Dock, resize, and collapse dialogs
 <h3>Support</h3>
 
 - 3ds Max 2021 - 2025
