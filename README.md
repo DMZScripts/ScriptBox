@@ -33,6 +33,7 @@ Organize your script collection in any way you like and use them within a simple
 	- [Options](#tt_options)
 	- [Custom tooltip](#tt_code)
 	- [How to write a custom tooltip](#tt_howto)
+ 	- [Notes](#tt_notes)
 - [Versions](#versions)
 	- [1.002](#versions_1002)
 	- [1.100](#versions_1100)
@@ -258,18 +259,22 @@ In the screenshot you can see an examples of valid sbx_tooltips for every suppor
 <details open>
   <summary><b>line 8</b>: Plugin tooltip</summary>
 
-  > ```(local sbx_tooltip = ("Custom plugin tooltip for Script Box"))```  
+  > ```local sbx_tooltip = ("Custom plugin tooltip for Script Box")```  
 </details>
 <details open>
   <summary><b>line 28</b>: MacroScript tooltip</summary>
 
-  > ```(local sbx_tooltip = ("Custom macroscript tooltip for Script Box"))```  
+  > ```local sbx_tooltip = ("Custom macroscript tooltip for Script Box")```  
 </details>
 <details open>
   <summary><b>line 35</b>: Uility tooltip</summary>
 
-  > ```(local sbx_tooltip = ("Custom utility tooltip for Script Box"))```  
+  > ```local sbx_tooltip = ("Custom utility tooltip for Script Box")```  
 </details>
+
+<h3>Notes</h3><a name="tt_notes"></a>
+
+For macroScripts, plugins and utilties local ```sbx_tooltip = ``` already sits inside brackets of the script class, whereas with the regular script you need dedicated brackets for the loacl variabel to 'sit'in.
 
 <h2> </h2>
 <br>
