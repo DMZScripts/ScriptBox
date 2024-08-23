@@ -274,7 +274,7 @@ In the screenshot you can see an examples of valid sbx_tooltips for every suppor
 
 <h3>Notes</h3><a name="tt_notes"></a>
 
-For macroScripts, plugins and utilties local ```sbx_tooltip = ``` already sits inside brackets of the script class, whereas with the regular script you need dedicated brackets for the loacl variabel to 'sit'in.
+For macroScripts, plugins and utilties ```local sbx_tooltip = ``` already sits inside brackets of the script class, whereas with the regular script you need dedicated brackets for the local variabel to sit in, otherwise the tooltip will not get detected.
 
 <h2> </h2>
 <br>
